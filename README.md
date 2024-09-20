@@ -40,11 +40,6 @@ _**License :**_
 This project is licensed under the MIT License.
 
 
-_**Credits :**_
-
-@dibya-22
-
-
 _**Contributing :**_
 
 Contributions are welcome! Feel free to fork and submit pull requests.
